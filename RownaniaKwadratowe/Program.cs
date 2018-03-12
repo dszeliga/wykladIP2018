@@ -16,10 +16,11 @@ namespace RownaniaKwadratowe
             c = -5;
 
             double delta = b * b - 4 * a * c;
-
-            
-
-            if(delta>=0)
+            if (a == 0)
+            {
+                Console.WriteLine("Równanie linowe, x={0}", -c / b);
+            }
+            else if (delta >= 0)
             {
                 double x1 = (-b + Math.Sqrt(delta)) / 2 * a;
                 double x2 = (-b - Math.Sqrt(delta)) / 2 * a;
@@ -32,7 +33,7 @@ namespace RownaniaKwadratowe
                 Console.WriteLine("Brak rozwiazan w dziedzinie R");
             }
 
-          
+
         }
     }
 }
