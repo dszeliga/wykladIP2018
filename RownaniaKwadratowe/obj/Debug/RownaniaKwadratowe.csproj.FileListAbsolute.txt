@@ -1,1 +1,6 @@
 C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.exe.config
+C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.exe
+C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.pdb
+C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.csprojResolveAssemblyReference.cache
+C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.exe
+C:\Users\student.IBNG\Desktop\DS\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.pdb

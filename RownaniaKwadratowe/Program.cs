@@ -10,6 +10,15 @@ namespace RownaniaKwadratowe
     {
         static void Main(string[] args)
         {
+            double a, b, c;
+            a = 1;
+            b = 4;
+            c = -5;
+
+            double delta = b * b - 4 * a * c;
+
+            double x1 = (-b + Math.Sqrt(delta)) / 2 * a;
+            double x2 = (-b - Math.Sqrt(delta)) / 2 * a;
         }
     }
 }
