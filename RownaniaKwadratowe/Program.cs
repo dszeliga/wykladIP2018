@@ -12,8 +12,8 @@ namespace RownaniaKwadratowe
         {
             double a, b, c;
             a = 1;
-            b = 4;
-            c = -5;
+            b = 0;
+            c = -8;
 
             double delta = b * b - 4 * a * c;
             if (a == 0)
@@ -22,8 +22,8 @@ namespace RownaniaKwadratowe
             }
             else if (delta >= 0)
             {
-                double x1 = (-b + Math.Sqrt(delta)) / 2 * a;
-                double x2 = (-b - Math.Sqrt(delta)) / 2 * a;
+                double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
+                double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
 
                 Console.WriteLine("Pierwiastki to: {0} i {1}", x1, x2);
                 Console.ReadKey();
