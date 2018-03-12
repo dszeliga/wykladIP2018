@@ -19,6 +19,9 @@ namespace RownaniaKwadratowe
 
             double x1 = (-b + Math.Sqrt(delta)) / 2 * a;
             double x2 = (-b - Math.Sqrt(delta)) / 2 * a;
+
+            Console.WriteLine("Pierwiastki to: {0} i {1}", x1,x2);
+            Console.ReadKey();
         }
     }
 }
