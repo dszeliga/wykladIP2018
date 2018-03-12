@@ -11,7 +11,6 @@ namespace RownaniaKwadratowe
         static void Main(string[] args)
         {
             double a, b, c;
-            a = 2;
             Console.WriteLine("Podaj a");
             a = Double.Parse(Console.ReadLine());
             Console.WriteLine("Podaj b");
