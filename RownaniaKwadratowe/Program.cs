@@ -11,9 +11,11 @@ namespace RownaniaKwadratowe
         static void Main(string[] args)
         {
             double a, b, c;
-            a = 1;
-            b = 4;
-            c = -5;
+
+            
+            a = Double.Parse(Console.ReadLine());
+            b = Double.Parse(Console.ReadLine());
+            c = Double.Parse(Console.ReadLine());
 
             double delta = b * b - 4 * a * c;
             if (a == 0)
